@@ -1,4 +1,4 @@
-# xm_GBDT
+# GBDT
 
 sample.scala and featurescore.scala are for getting samples
 
